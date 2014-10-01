@@ -179,20 +179,6 @@
                                 <a class="fancybox" rel="gallery2" href="previa/11.jpg" title="">
                                 </a>
                             </div>
-                            <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery3" href="previa/1.jpg" title="Westfield Waterfalls - Middletown CT Lower (Graham_CS)">
-                                    <div class="caption"></div>
-                                    <img class="img-responsive" src="previa/1.jpg" alt="" />
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/2.jpg" title="Calm Before The Storm (One Shoe Photography Ltd.)">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/3.jpg" title="Lambs Valley (JMImagesonline.com)">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/4.jpg" title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/4.jpg" title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))">
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -404,20 +390,6 @@
                                 <a class="fancybox" rel="gallery5" href="ensaio/14.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery5" href="ensaio/15.jpg" title="">
-                                </a>
-                            </div>
-                            <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery3" href="previa/1.jpg" title="Westfield Waterfalls - Middletown CT Lower (Graham_CS)">
-                                    <div class="caption"></div>
-                                    <img class="img-responsive" src="previa/1.jpg" alt="" />
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/2.jpg" title="Calm Before The Storm (One Shoe Photography Ltd.)">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/3.jpg" title="Lambs Valley (JMImagesonline.com)">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/4.jpg" title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))">
-                                </a>
-                                <a class="fancybox" rel="gallery3" href="previa/4.jpg" title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))">
                                 </a>
                             </div>
                         </div>
