@@ -64,7 +64,7 @@
         <!-- /Home -->
 
         <!-- Galeria -->
-        <div id="portfolio" class="panel1">
+        <div id="galeria" class="panel1">
             <div class="content">
                 <div class="portfolio-content">
                     <div class="row">
@@ -502,7 +502,7 @@
             <img src="img/dplay-logo.jpg" id="logo1">
             <ul id="navigation">
                 <li><a id="link-home" href="#home">Home</a></li>
-                <li><a id="link-portfolio" href="#portfolio">Galeria</a></li>
+                <li><a id="link-portfolio" href="#galeria">Galeria</a></li>
                 <li><a id="link-about" href="#about">Sobre</a></li>
                 <li><a id="link-contact" href="#contact">Contato</a></li>
             </ul>
