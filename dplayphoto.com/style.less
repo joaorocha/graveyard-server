@@ -61,6 +61,16 @@ body {
 	font-family: @font-julius_sans_one !important;
 	color: @color-white;
 }
+
+.back {
+	position: absolute;
+	top: 5%;
+}
+
+.back img {
+	width: 50px;
+	height: 50px;
+}
 /***GERAL***/
 
 
@@ -120,6 +130,32 @@ body {
 		text-decoration: none;
 	}
 
+	#navigation li.yellow a,
+	#navigation li.blue a,
+	#navigation li.red a,
+	#navigation li.green a
+	{
+		-webkit-transition: all .15s ease-in-out;
+		transition: all .15s ease-in-out;
+	}
+	
+
+	#navigation li.yellow a:hover{
+		color: #E9E913;
+	}
+
+	#navigation li.blue a:hover{
+		color: #1313e9;
+	}
+
+	#navigation li.red a:hover{
+		color: #e91313;
+	}
+
+	#navigation li.green a:hover{
+		color: #0ccc32;
+	}
+
 .redes {
 	width: 190px;
 	margin: 80px auto 0px auto;
@@ -130,6 +166,8 @@ body {
 		height: 60px;
 		float: left;
 	}
+
+
 /***MENU***/
 
 
@@ -436,17 +474,37 @@ body {
 
 .contato-content {
 	margin-left: 100px;
-	margin-top: 90px;
+	margin-top: 50px;
 }
 
 	.contato-content img {
 		margin-bottom: 30px;
+		width: 100px;
 	}
 
 	.contato-content p {
-		margin-top: 45px;
-		font-family: @font-open_sans; 
+		margin-top: 25px;
+		font-family: @font-open_sans;
+		color: @color-white;
 	}
+
+.contato-link {
+	color: @color-white;
+}
+
+.contato-link:hover {
+	color: @color-white;
+}
+
+.parceiro img{
+	border-radius: 50%;
+	width: 150px;
+	height: 135px;
+}
+
+.parceiro p a {
+	color: @color-white;
+}
 /***SOBRE***/
 
 

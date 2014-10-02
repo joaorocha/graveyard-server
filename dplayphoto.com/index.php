@@ -116,7 +116,30 @@
                                     <li>
                                         <div class="ch-item ch-img-5">
                                             <div class="ch-info">
-                                                <a href="#projetos"><h3 style="margin-top: -10px;">Projetos Pessoais</h3></a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/3.jpg"><h3 style="margin-top: -10px;">Projetos Pessoais</h3>
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/1.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/2.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/4.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/5.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/6.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/7.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/8.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/9.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/10.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/11.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery6" href="projetos/12.jpg">
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
@@ -133,6 +156,7 @@
         <div id="previas" class="panel1">
             <div class="content">
                 <div class="event-content">
+                    <a href="#galeria" class="back"><img src="img/back.png"></a>
                     <h1 class="text-center section-title">PRÉVIAS</h1>
                     <!-- Place somewhere in the <body> of your page -->
                     <div class="fancybox1">
@@ -143,7 +167,7 @@
                                         <h3 class="caption-header text-center">Kamila e Sérgio</h3>
                                         <hr shade="noshade">
                                         <div class="caption-title">
-                                            <p class="text-center">Prévia Kamila e Sérgio</p>
+                                            <p class="text-center">Romântica</p>
                                         </div>
                                     </div>
                                     <img class="img-responsive" src="previa/1.jpg" alt="" />
@@ -162,21 +186,53 @@
                                 </a>
                             </div>
                             <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery2" href="previa/8.jpg" title="">
+                                <a class="fancybox" rel="gallery14" href="previa/8.jpg" title="">
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Amanda</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                            <p class="text-center">Noiva</p>
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="previa/16.jpg" alt="" />
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/9.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/11.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/12.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/13.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/14.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/15.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery14" href="previa/17.jpg" title="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery2" href="previa/18.jpg" title="">
                                     <div class="caption">
                                         <h3 class="caption-header text-center">Amanda e Euclides</h3>
                                         <hr shade="noshade">
                                         <div class="caption-title">
-                                            <p class="text-center">Prévia Amanda e Euclides</p>
+                                            <p class="text-center">Romântica</p>
                                         </div>
                                     </div>
-                                    <img class="img-responsive" src="previa/8.jpg" alt="" />
+                                    <img class="img-responsive" src="previa/19.jpg" alt="" />
                                 </a>
-                                <a class="fancybox" rel="gallery2" href="previa/9.jpg" title="">
+                                <a class="fancybox" rel="gallery2" href="previa/19.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery2" href="previa/10.jpg" title="">
+                                <a class="fancybox" rel="gallery2" href="previa/20.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery2" href="previa/11.jpg" title="">
+                                <a class="fancybox" rel="gallery2" href="previa/21.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery2" href="previa/22.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery2" href="previa/23.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery2" href="previa/24.jpg" title="">
                                 </a>
                             </div>
                         </div>
@@ -188,6 +244,7 @@
         <div id="casamentos" class="panel1">
             <div class="content">
                 <div class="casamentos-content">
+                    <a href="#galeria" class="back"><img src="img/back.png"></a>
                     <h1 class="text-center section-title">CASAMENTOS</h1>
                     <!-- Place somewhere in the <body> of your page -->
                     <div class="fancybox1">
@@ -200,7 +257,7 @@
                                         <div class="caption-title">
                                         </div>
                                     </div>
-                                    <img class="img-responsive" src="casamentos/1.jpg" alt="" />
+                                    <img class="img-responsive" src="casamentos/12.jpg" alt="" />
                                 </a>
                                 <a class="fancybox" rel="gallery8" href="casamentos/2.jpg" title="">
                                 </a>
@@ -222,11 +279,28 @@
                                 </a>
                                 <a class="fancybox" rel="gallery8" href="casamentos/11.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery8" href="casamentos/12.jpg" title="">
+                            </div>
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery9" href="casamentos/13.jpg" title="">
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Amanda e Euclides</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="casamentos/16.jpg" alt="" />
+                                </a>
+                                <a class="fancybox" rel="gallery9" href="casamentos/14.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery9" href="casamentos/15.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery9" href="casamentos/16.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery9" href="casamentos/17.jpg" title="">
                                 </a>
                             </div>
                             <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery9" href="casamentos/20.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/18.jpg" title="">
                                     <div class="caption">
                                         <h3 class="caption-header text-center">Jerci e Tiago</h3>
                                         <hr shade="noshade">
@@ -235,37 +309,15 @@
                                     </div>
                                     <img class="img-responsive" src="casamentos/20.jpg" alt="" />
                                 </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/18.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/19.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/19.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/20.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/20.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/21.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/21.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/22.jpg" title="">
                                 </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/22.jpg" title="">
-                                </a>
-                                <a class="fancybox" rel="gallery9" href="casamentos/23.jpg" title="">
-                                </a>
-
-                            </div>
-                            <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery10" href="casamentos/13.jpg" title="">
-                                    <div class="caption">
-                                        <h3 class="caption-header text-center">Amanda e Euclides</h3>
-                                        <hr shade="noshade">
-                                        <div class="caption-title">
-                                        </div>
-                                    </div>
-                                    <img class="img-responsive" src="casamentos/13.jpg" alt="" />
-                                </a>
-                                <a class="fancybox" rel="gallery10" href="casamentos/14.jpg" title="">
-                                </a>
-                                <a class="fancybox" rel="gallery10" href="casamentos/15.jpg" title="">
-                                </a>
-                                <a class="fancybox" rel="gallery10" href="casamentos/16.jpg" title="">
-                                </a>
-                                <a class="fancybox" rel="gallery10" href="casamentos/17.jpg" title="">
+                                <a class="fancybox" rel="gallery10" href="casamentos/23.jpg" title="">
                                 </a>
                             </div>
                         </div>
@@ -276,16 +328,21 @@
         <div id="eventos" class="panel1">
             <div class="content">
                 <div class="eventos-content">
+                    <a href="#galeria" class="back"><img src="img/back.png"></a>
                     <h1 class="text-center section-title">EVENTOS</h1>
                     <!-- Place somewhere in the <body> of your page -->
                     <div class="fancybox1">
                         <div class="row">
-                            <div class="col-md-4 col-md-offset-4 minor-padding-left">
-                                <a class="fancybox" rel="gallery7" href="eventos/3.jpg" >
-                                    <div class="caption"></div>
-                                    <img class="img-responsive" src="eventos/3.jpg"/>
-                                </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/1.jpg">
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery7" href="eventos/1.jpg" >
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Batismo</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                            <p class="text-center">Ana e Valentina</p>
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="eventos/4.jpg"/>
                                 </a>
                                 <a class="fancybox" rel="gallery7" href="eventos/2.jpg">
                                 </a>
@@ -299,35 +356,69 @@
                                 </a>
                                 <a class="fancybox" rel="gallery7" href="eventos/7.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/8.jpg">
+                            </div>
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery11" href="eventos/10.jpg" >
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Batismo</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                            <p class="text-center">Rafaela</p>
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="eventos/12.jpg"/>
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/9.jpg">
+                                <a class="fancybox" rel="gallery11" href="eventos/11.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/10.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                                <a class="fancybox" rel="gallery11" href="eventos/12.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/11.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                                <a class="fancybox" rel="gallery11" href="eventos/13.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/12.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                                <a class="fancybox" rel="gallery11" href="eventos/14.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/13.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                            </div>
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery12" href="eventos/15.jpg" >
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Chá de Lingerie</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                            <p class="text-center">Ju</p>
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="eventos/18.jpg"/>
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/14.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                                <a class="fancybox" rel="gallery12" href="eventos/16.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/15.jpg" title="Chá de Lingerie da Ju - 17/11/2013">
+                                <a class="fancybox" rel="gallery12" href="eventos/17.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/16.jpg">
+                                <a class="fancybox" rel="gallery12" href="eventos/18.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/17.jpg">
+                                <a class="fancybox" rel="gallery12" href="eventos/19.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/18.jpg">
+                                <a class="fancybox" rel="gallery12" href="eventos/20.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/19.jpg">
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top:15px;">
+                            <div class="col-md-4 minor-padding-right">
+                                <a class="fancybox" rel="gallery13" href="eventos/21.jpg" >
+                                    <div class="caption">
+                                        <h3 class="caption-header text-center">Aniversário</h3>
+                                        <hr shade="noshade">
+                                        <div class="caption-title">
+                                            <p class="text-center">Enzo</p>
+                                        </div>
+                                    </div>
+                                    <img class="img-responsive" src="eventos/25.jpg"/>
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/20.jpg">
+                                <a class="fancybox" rel="gallery13" href="eventos/22.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/21.jpg">
+                                <a class="fancybox" rel="gallery13" href="eventos/23.jpg">
                                 </a>
-                                <a class="fancybox" rel="gallery7" href="eventos/22.jpg">
+                                <a class="fancybox" rel="gallery13" href="eventos/24.jpg">
+                                </a>
+                                <a class="fancybox" rel="gallery13" href="eventos/25.jpg">
                                 </a>
                             </div>
                         </div>
@@ -338,22 +429,23 @@
         <div id="ensaios" class="panel1">
             <div class="content">
                 <div class="ensaios-content">
+                    <a href="#galeria" class="back"><img src="img/back.png"></a>
                     <h1 class="text-center section-title">ENSAIOS</h1>
                     <!-- Place somewhere in the <body> of your page -->
                     <div class="fancybox1">
                         <div class="row">
-                            <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery4" href="ensaio/2.jpg" title="">
+                            <div class="col-md-4 col-md-offset-2 minor-padding-right">
+                                <a class="fancybox" rel="gallery4" href="ensaio/1.jpg" title="">
                                     <div class="caption">
-                                        <h3 class="caption-header text-center">Arthur</h3>
+                                        <h3 class="caption-header text-center">Kamila + Sérgio = Arthur</h3>
                                         <hr shade="noshade">
                                         <div class="caption-title">
-                                            <p class="text-center">Arthur</p>
+                                            <p class="text-center">Bebê</p>
                                         </div>
                                     </div>
-                                    <img class="img-responsive" src="ensaio/2.jpg" alt="" />
+                                    <img class="img-responsive" src="ensaio/4.jpg" alt="" />
                                 </a>
-                                <a class="fancybox" rel="gallery4" href="ensaio/1.jpg" title="">
+                                <a class="fancybox" rel="gallery4" href="ensaio/2.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery4" href="ensaio/3.jpg" title="">
                                 </a>
@@ -369,23 +461,23 @@
                                 </a>
                             </div>
                             <div class="col-md-4 minor-padding-right">
-                                <a class="fancybox" rel="gallery5" href="ensaio/13.jpg" title="">
+                                <a class="fancybox" rel="gallery5" href="ensaio/9.jpg" title="">
                                     <div class="caption">
-                                        <h3 class="caption-header text-center">Pietro</h3>
+                                        <h3 class="caption-header text-center">Ju + Michel = Pietro</h3>
                                         <hr shade="noshade">
                                         <div class="caption-title">
-                                            <p class="text-center">Pietro</p>
+                                            <p class="text-center">Gestante</p>
                                         </div>
                                     </div>
-                                    <img class="img-responsive" src="ensaio/13.jpg" alt="" />
-                                </a>
-                                <a class="fancybox" rel="gallery5" href="ensaio/9.jpg" title="">
+                                    <img class="img-responsive" src="ensaio/14.jpg" alt="" />
                                 </a>
                                 <a class="fancybox" rel="gallery5" href="ensaio/10.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery5" href="ensaio/11.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery5" href="ensaio/12.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery5" href="ensaio/13.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery5" href="ensaio/14.jpg" title="">
                                 </a>
@@ -405,30 +497,6 @@
                     <div class="fancybox1">
                         <div class="row">
                             <div class="col-md-4 col-md-offset-4 minor-padding-left">
-                                <a class="fancybox" rel="gallery6" href="projetos/3.jpg" >
-                                    <div class="caption"></div>
-                                    <img class="img-responsive" src="projetos/3.jpg"/>
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/1.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/2.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/4.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/5.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/6.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/7.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/8.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/9.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/10.jpg">
-                                </a>
-                                <a class="fancybox" rel="gallery6" href="projetos/11.jpg">
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -474,11 +542,11 @@
                     <div class="row">
                         <div class="col-md-6">
                             <img src="img/contato-facebook.png" class="pull-left">
-                            <p>FB.COM/DAVINI.PHOTOS</p>
+                            <p><a href="https://www.facebook.com/dplayphoto" target="_blank" class="contato-link">FB.COM/DAVINI.PHOTOS</a></p>
                         </div>
                         <div class="col-md-6">
                             <img src="img/contato-instagram.png" class="pull-left">
-                            <p>DPLAYFOTOGRAFIA</p>
+                            <p><a href="http://instagram.com/dplayfotografia" target="_blank" class="contato-link">DPLAYFOTOGRAFIA</a></p>
                         </div>
                     </div>
                     <div class="row">
@@ -492,7 +560,13 @@
                         </div>
                     </div>
                 </div>
-
+                <h1 class="text-center section-title">PARCEIRO</h1>
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1 parceiro pull-left">
+                        <img src="img/parceiro.jpg" class="img-responsive pull-left">
+                        <p class="pull-left" style="margin-top: 45px;"><a href="https://www.facebook.com/gutoravenophotos">fb.com/gutoravenophotos</a></p>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- /Contact -->
@@ -501,10 +575,10 @@
         <div id="header">
             <img src="img/dplay-logo.jpg" id="logo1">
             <ul id="navigation">
-                <li><a id="link-home" href="#home">Home</a></li>
-                <li><a id="link-portfolio" href="#galeria">Galeria</a></li>
-                <li><a id="link-about" href="#about">Sobre</a></li>
-                <li><a id="link-contact" href="#contact">Contato</a></li>
+                <li class="yellow"><a id="link-home" href="#home">Home</a></li>
+                <li class="blue"><a id="link-portfolio" href="#galeria">Galeria</a></li>
+                <li class="red"><a id="link-about" href="#about">Sobre</a></li>
+                <li class="green"><a id="link-contact" href="#contact">Contato</a></li>
             </ul>
             <div class="redes">
                 <a href="https://www.facebook.com/dplayphoto" target="_blank"><img src="img/icon-facebook.png"></a>
