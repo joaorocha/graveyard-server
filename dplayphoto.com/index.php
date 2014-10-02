@@ -8,7 +8,16 @@
     <meta name="keywords" content="Fotografia, fotografia, Photo, Photo, Davini, davini,
      Portfolio, portfolio, DPlay, dplay, DPlayphoto, dplayphoto">
     <meta name="robot" content="index,follow">
+    <meta name="copyright" content="Copyright © 2014 GraveyardStudios. All Rights Reserved.">
     <meta name="author" content="João Victor Rocha Melo">
+    <meta name="language" content="pt-BR">
+
+    <meta property="og:title" content="DPlay FOTOGRAFIA">
+    <meta property="og:site_name" content="DPlay FOTOGRAFIA">
+    <meta property="og:url" content="http://www.dplayphoto.com">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="http://www.dplayphoto.com/img/thumbnail.jpg">
+    <meta property="og:type" content="website">
 
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
@@ -31,6 +40,16 @@
 
     </head>
     <body onload="location.href='#home'; stopLoading()">
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-55204134-2', 'auto');
+          ga('send', 'pageview');
+
+        </script>
         <!-- Loading -->
         <div id="Loading" class="loading-panel">
             <div class="content">
@@ -278,6 +297,8 @@
                                 <a class="fancybox" rel="gallery8" href="casamentos/10.jpg" title="">
                                 </a>
                                 <a class="fancybox" rel="gallery8" href="casamentos/11.jpg" title="">
+                                </a>
+                                <a class="fancybox" rel="gallery8" href="casamentos/12.jpg" title="">
                                 </a>
                             </div>
                             <div class="col-md-4 minor-padding-right">
@@ -564,7 +585,7 @@
                 <div class="row">
                     <div class="col-md-5 col-md-offset-1 parceiro pull-left">
                         <img src="img/parceiro.jpg" class="img-responsive pull-left">
-                        <p class="pull-left" style="margin-top: 45px;"><a href="https://www.facebook.com/gutoravenophotos">fb.com/gutoravenophotos</a></p>
+                        <p class="pull-left" style="margin-top: 30px;"><a href="https://www.facebook.com/gutoravenophotos">fb.com/gutoravenophotos</a></p>
                     </div>
                 </div>
             </div>
@@ -575,10 +596,10 @@
         <div id="header">
             <img src="img/dplay-logo.jpg" id="logo1">
             <ul id="navigation">
-                <li class="yellow"><a id="link-home" href="#home">Home</a></li>
-                <li class="blue"><a id="link-portfolio" href="#galeria">Galeria</a></li>
-                <li class="red"><a id="link-about" href="#about">Sobre</a></li>
-                <li class="green"><a id="link-contact" href="#contact">Contato</a></li>
+                <li><a id="link-home" href="#home">Home</a></li>
+                <li><a id="link-portfolio" href="#galeria">Galeria</a></li>
+                <li><a id="link-about" href="#about">Sobre</a></li>
+                <li><a id="link-contact" href="#contact">Contato</a></li>
             </ul>
             <div class="redes">
                 <a href="https://www.facebook.com/dplayphoto" target="_blank"><img src="img/icon-facebook.png"></a>
