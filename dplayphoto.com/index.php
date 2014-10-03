@@ -9,7 +9,7 @@
      Portfolio, portfolio, DPlay, dplay, DPlayphoto, dplayphoto">
     <meta name="robot" content="index,follow">
     <meta name="copyright" content="Copyright © 2014 GraveyardStudios. All Rights Reserved.">
-    <meta name="author" content="João Victor Rocha Melo">
+    <meta name="author" content="GRAVEYARD STUDIOS">
     <meta name="language" content="pt-BR">
 
     <meta property="og:title" content="DPlay FOTOGRAFIA">
