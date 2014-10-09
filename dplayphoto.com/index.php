@@ -15,7 +15,7 @@
     <meta property="og:title" content="DPlay FOTOGRAFIA">
     <meta property="og:site_name" content="DPlay FOTOGRAFIA">
     <meta property="og:url" content="http://www.dplayphoto.com">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Site portfólio da fotógrafa Dávini Ribeiro. Jovem fotógrafa buscando a simplicidade, o amor e o bem por meio da arte.">
     <meta property="og:image" content="http://www.dplayphoto.com/img/thumbnail.jpg">
     <meta property="og:type" content="website">
 
