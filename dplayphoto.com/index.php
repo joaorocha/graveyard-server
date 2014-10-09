@@ -706,7 +706,9 @@
                                 </a>
                                 <a class="fancybox" rel="gallery101" href="previa/24.jpg" title="">
                                 </a>
-                                <p class="pull-left">PRÉVIAS</p>
+                                <a class="fancybox" rel="gallery101" href="previa/1.jpg" title="">
+                                    <p class="pull-left gal">PRÉVIAS</p>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -760,7 +762,10 @@
                                 </a>
                                 <a class="fancybox" rel="gallery102" href="casamentos/23.jpg" title="">
                                 </a>
-                                <p class="pull-left">CASAMENTOS</p>
+                                <a class="fancybox" rel="gallery102" href="casamentos/1.jpg" title="">
+                                    <p class="pull-left gal">CASAMENTOS</p>
+                                </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -818,7 +823,10 @@
                                 </a>
                                 <a class="fancybox" rel="gallery103" href="eventos/25.jpg" title="">
                                 </a>
-                                <p class="pull-left">EVENTOS</p>
+                                <a class="fancybox" rel="gallery103" href="eventos/1.jpg" title="">
+                                    <p class="pull-left gal">EVENTOS</p>
+                                </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -856,7 +864,10 @@
                                 </a>
                                 <a class="fancybox" rel="gallery104" href="ensaio/15.jpg" title="">
                                 </a>
-                                <p class="pull-left">ENSAIOS</p>
+                                <a class="fancybox" rel="gallery104" href="ensaio/1.jpg" title="">
+                                    <p class="pull-left gal">ENSAIOS</p>
+                                </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -888,7 +899,10 @@
                                 </a>
                                 <a class="fancybox" rel="gallery105" href="projetos/12.jpg" title="">
                                 </a>
-                                <p class="pull-left">PROJETOS PESSOAIS</p>
+                                <a class="fancybox" rel="gallery105" href="projetos/1.jpg" title="">
+                                    <p class="pull-left gal">PROJETOS PESSOAIS</p>
+                                </a>
+                                
                             </div>
                         </div>
                         
