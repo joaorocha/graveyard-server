@@ -970,7 +970,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <a href="http://instagram.com/dplayfotografia" target="_blank"><img src="img/contato-instagram.png" class="img-responsive pull-left"></a>
-                                    <p class="pull-left"><a href="http://instagram.com/dplayfotografia" target="_blank">INSTAGRAM</a></p>
+                                    <p class="pull-left"><a href="http://instagram.com/dplayfotografia" target="_blank">DPLAYFOTOGRAFIA</a></p>
                                 </div>
                             </div>
                             <div class="row">
