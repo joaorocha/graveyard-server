@@ -63,7 +63,7 @@
           </ul>
         </div>
       </div><!--END Barra de navegação-->
-    
+
       <!--Seção Home-->
       <div class="box" id="home">
         <div class="container">
@@ -440,7 +440,7 @@
                         <p>João Rocha</p>
                         <ul>
                           <li><a href="https://www.facebook.com/joaorocham" target="_blank">Sobre</a></li>
-                          <li><a href="portfolio/joao/index.html" target="_blank">Portfolio</a></li>
+                          <li><a href="joao" target="_blank">Portfolio</a></li>
                         </ul>
                       </div>
                     </div>
