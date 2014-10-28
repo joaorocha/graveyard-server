@@ -136,12 +136,12 @@
                                     <li>
                                         <div class="ch-item ch-img-5">
                                             <div class="ch-info">
-                                                <a class="fancybox" rel="gallery11" href="projetos/3.jpg">
+                                                <a class="fancybox" rel="gallery11" href="projetos/1.jpg">
                                                     <h3 style="margin-top: -10px;">Projetos Pessoais</h3>
                                                 </a>
-                                                <a class="fancybox" rel="gallery11" href="projetos/1.jpg">
-                                                </a>
                                                 <a class="fancybox" rel="gallery11" href="projetos/2.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery11" href="projetos/3.jpg">
                                                 </a>
                                                 <a class="fancybox" rel="gallery11" href="projetos/4.jpg">
                                                 </a>
@@ -160,6 +160,14 @@
                                                 <a class="fancybox" rel="gallery11" href="projetos/11.jpg">
                                                 </a>
                                                 <a class="fancybox" rel="gallery11" href="projetos/12.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery11" href="projetos/13.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery11" href="projetos/14.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery11" href="projetos/15.jpg">
+                                                </a>
+                                                <a class="fancybox" rel="gallery11" href="projetos/16.jpg">
                                                 </a>
                                             </div>
                                         </div>
