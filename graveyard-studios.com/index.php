@@ -999,11 +999,11 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-sm-offset-3 col-sm-3">
-            <img src="img/social/facebook.png" class="img-responsive pull-left">
+          <div class="col-md-offset-3 col-md-3 pull-left">
+            <a href="https://www.facebook.com/graveyard.devel" target="_blank"><img src="img/social/facebook.png" class="img-responsive"></a>
           </div>
-          <div class="col-sm-3">
-            <img src="img/social/twitter.png" class="img-responsive pull-left">
+          <div class="col-md-3">
+            <a href="https://twitter.com/GraveyardStdios" target="_blank"><img src="img/social/twitter.png" class="img-responsive"></a>
           </div>
         </div>
       </div>
