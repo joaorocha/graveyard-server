@@ -32,7 +32,7 @@
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("konami.php") ?>
     <!--Tudo-->
-    <div class="tudo">
+    <div class="tudo hidden-xs">
 
       <!--Botão back to top-->
       <a href="#graveyard" class="back"></a>
@@ -970,6 +970,44 @@
 
     </div><!--END Tudo-->
 
+
+    <!--MOBILE-->
+    <div class="visible-xs-block">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <img src="img/graveyard-logo.png" class="img-responsive">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="text-center">Graveyard Studios</h4>
+            <p>Empresa com foco voltado e sua grande maioria para o desenvolvimento de jogos,
+             a Graveyard Studios tem como objetivo o entretenimento de seus usuários. Com seus 
+             projetos desenvolvidos sem grandes intensões financeiras, a empresa visa a criação 
+             de jogos que agrade a todos os gostos mantendo a idéia de que tudo aquilo que é 
+             feito com dedicação tende a ser bom e a melhorar a cada dia.</p>
+            <p>Fundada em 5 de outubro de 2013, os co-fundadores da Graveyard 
+              decidiram em seguir um sonho de infância em comum, e se juntaram 
+              para então seguir a carreira de desenvolvedores de jogos.</p>
+            <p>Com muitos planos para o futuro como os jogos Westeros Online, um jogo com 
+              de categoria RPG via browser click and play e com a temática de Game Of Thrones e 
+              Racconection um jogo de categoria plataforma com temática única, a Graveyard Studios 
+              pretende manter um ritmo de desenvolvimento frequente sem deixar os usuários sem atualização.</p>
+            <p>Não só apenas com jogos, mas a Graveyard Studios também desenvolve templates HTML, 
+              cartões de visita, banners, panfletos e até mesmo sistemas comums.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-offset-3 col-sm-3">
+            <img src="img/social/facebook.png" class="img-responsive pull-left">
+          </div>
+          <div class="col-sm-3">
+            <img src="img/social/twitter.png" class="img-responsive pull-left">
+          </div>
+        </div>
+      </div>
+    </div><!--END MOBILE-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
