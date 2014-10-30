@@ -27,10 +27,10 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-
+    <link href="css/swipebox.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/jquery.fancybox.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/idangerous.swiper.css">
+    <link href="css/idangerous.swiper.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -555,7 +555,7 @@
                             presente foi uma câmera. Sempre fui apaixonada por registrar e ser registrada e descobri
                             a mágica e o quanto é encantador fazer não só um registro mas arte.</p>
                             <p>Hoje curso o Ensino Superior em Fotografia no IESB-DF.</p>
-                            <p style="margin: 0px 115px;"><strong>Vá atrás do que te faz ser você!</strong></p>
+                            <h4 class="text-center" style="color:#fff;"><strong>Vá atrás do que te faz ser você!</strong></h4>
                         </div>
                     </div>
                 </div>
@@ -632,8 +632,8 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="next-section center-block">
-                                        <img src="img/back-black.png" class="pull-left">
                                         <p class="pull-left">Arraste</p>
+                                        <img src="img/back-black.png" class="pull-left">
                                     </div>
                                 </div>
                             </div>
@@ -662,57 +662,57 @@
                             </div>
                             <div class="row">
                                 <div class="galeria-mobile">
-                                    <div class="col-md-7">  
-                                        <a class="fancybox" rel="gallery101" href="previa/1.jpg" title="">
-                                            <img class="img-responsive" src="previa/5.jpg" class="pull-left" alt="" />
+                                    <div class="col-md-7">
+                                        <a rel="gallery-1" href="previa/1.jpg" class="swipebox">
+                                            <img src="previa/2.jpg" alt="image">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/2.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/2.jpg" title="">
+                                        <a rel="gallery-1" href="previa/3.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/3.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/4.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/5.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/6.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/7.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/8.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/9.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/10.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/11.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/12.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/13.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/14.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/15.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/16.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/17.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/18.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/19.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/20.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/21.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/22.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/23.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/24.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery101" href="previa/1.jpg" title="">
+                                        <a rel="gallery-1" href="previa/4.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/5.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/6.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/7.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/8.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/9.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/10.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/11.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/12.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/13.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/14.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/15.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/16.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/17.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/18.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/19.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/20.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/21.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/22.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/23.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-1" href="previa/24.jpg" class="swipebox">
+                                        </a>   
+                                        <a rel="gallery-1" href="previa/1.jpg" class="swipebox">
                                             <p class="pull-left gal">PRÉVIAS</p>
                                         </a>
                                     </div>
@@ -721,54 +721,54 @@
                             <div class="row">
                                 <div class="galeria-mobile">
                                     <div class="col-md-7">
-                                        <a class="fancybox" rel="gallery102" href="casamentos/1.jpg" title="">
-                                            <img class="img-responsive" src="casamentos/12.jpg" class="pull-left" alt="" />
+                                        <a rel="gallery-2" href="casamentos/1.jpg" class="swipebox">
+                                            <img src="casamentos/12.jpg" alt="image">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/2.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/2.jpg" title="">
+                                        <a rel="gallery-2" href="casamentos/3.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/3.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/4.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/5.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/6.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/7.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/8.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/9.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/10.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/11.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/12.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/13.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/14.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/15.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/16.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/17.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/18.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/19.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/20.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/21.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/22.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/23.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery102" href="casamentos/1.jpg" title="">
+                                        <a rel="gallery-2" href="casamentos/4.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/5.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/6.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/7.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/8.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/9.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/10.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/11.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/12.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/13.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/14.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/15.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/16.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/17.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/18.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/19.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/20.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/21.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/22.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/23.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-2" href="casamentos/1.jpg" class="swipebox">
                                             <p class="pull-left gal">CASAMENTOS</p>
                                         </a>
                                     </div>
@@ -777,58 +777,58 @@
                             <div class="row">
                                 <div class="galeria-mobile">
                                     <div class="col-md-7">
-                                        <a class="fancybox" rel="gallery103" href="eventos/1.jpg" title="">
-                                            <img class="img-responsive" src="eventos/18.jpg" class="pull-left" alt="" />
+                                        <a rel="gallery-3" href="eventos/1.jpg" class="swipebox">
+                                            <img src="eventos/18.jpg" alt="image">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/2.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/2.jpg" title="">
+                                        <a rel="gallery-3" href="eventos/3.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/3.jpg" title="">
+                                        <a rel="gallery-3" href="eventos/4.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/5.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/6.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/7.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/8.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/9.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/10.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/11.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/12.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/13.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/14.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/15.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/16.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/17.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/18.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/19.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/20.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/21.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/22.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-3" href="eventos/23.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/4.jpg" title="">
+                                        <a rel="gallery-3" href="eventos/24.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/5.jpg" title="">
+                                        <a rel="gallery-3" href="eventos/25.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/6.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/7.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/8.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/9.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/10.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/11.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/12.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/13.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/14.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/15.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/16.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/17.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/18.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/19.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/20.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/21.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/22.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/23.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/24.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/25.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery103" href="eventos/1.jpg" title="">
+                                        <a rel="gallery-3" href="eventos/1.jpg" class="swipebox">
                                             <p class="pull-left gal">EVENTOS</p>
                                         </a>
                                     </div>
@@ -837,38 +837,38 @@
                             <div class="row">
                                 <div class="galeria-mobile">
                                     <div class="col-md-7">
-                                        <a class="fancybox" rel="gallery104" href="ensaio/1.jpg" title="">
-                                            <img class="img-responsive" src="ensaio/15.jpg" class="pull-left" alt="" />
+                                        <a rel="gallery-4" href="ensaio/1.jpg" class="swipebox">
+                                            <img src="ensaio/15.jpg" alt="image">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/2.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/2.jpg" title="">
+                                        <a rel="gallery-4" href="ensaio/3.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/3.jpg" title="">
+                                        <a rel="gallery-4" href="ensaio/4.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/5.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/6.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/7.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/8.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/9.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/10.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/11.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/12.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/13.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/14.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-4" href="ensaio/15.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/4.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/5.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/6.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/7.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/8.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/9.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/10.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/11.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/12.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/13.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/14.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/15.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery104" href="ensaio/1.jpg" title="">
+                                        <a rel="gallery-4" href="ensaio/1.jpg" class="swipebox">
                                             <p class="pull-left gal">ENSAIOS</p>
                                         </a>
                                     </div>
@@ -877,32 +877,40 @@
                             <div class="row">
                                 <div class="galeria-mobile">
                                     <div class="col-md-7">
-                                        <a class="fancybox" rel="gallery105" href="projetos/1.jpg" title="">
-                                            <img class="img-responsive" src="projetos/12.jpg" class="pull-left" alt="" />
+                                        <a rel="gallery-5" href="projetos/1.jpg" class="swipebox">
+                                            <img src="projetos/16.jpg" alt="image">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/2.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/2.jpg" title="">
+                                        <a rel="gallery-5" href="projetos/3.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/3.jpg" title="">
+                                        <a rel="gallery-5" href="projetos/4.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/5.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/6.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/7.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/8.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/9.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/10.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/11.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/12.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/13.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/14.jpg" class="swipebox">
+                                        </a> 
+                                        <a rel="gallery-5" href="projetos/15.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/4.jpg" title="">
+                                        <a rel="gallery-5" href="projetos/16.jpg" class="swipebox">
                                         </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/5.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/6.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/7.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/8.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/9.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/10.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/11.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/12.jpg" title="">
-                                        </a>
-                                        <a class="fancybox" rel="gallery105" href="projetos/1.jpg" title="">
+                                        <a rel="gallery-5" href="projetos/1.jpg" class="swipebox">
                                             <p class="pull-left gal">PROJETOS PESSOAIS</p>
                                         </a>
                                     </div>
@@ -911,8 +919,8 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="next-section-galeria center-block">
-                                        <img src="img/back.png" class="pull-left">
                                         <p class="pull-left" style="color:#fff;">Arraste</p>
+                                        <img src="img/back2.png" class="pull-left">
                                     </div>
                                 </div>
                             </div>
@@ -948,8 +956,8 @@
                             </div>
                             <div class="row">
                                 <div class="next-section-galeria center-block">
-                                    <img src="img/back.png" class="pull-left">
                                     <p class="pull-left" style="color:#fff;">Arraste</p>
+                                    <img src="img/back2.png" class="pull-left">
                                 </div>
                             </div>
                         </div>
@@ -1061,6 +1069,14 @@
             for (var i = 0; i < mySwiper.slides.length; i++){
               mySwiper.slides[i].style.zIndex = i;
             }
+          </script>
+          <script src="js/jquery.swipebox.js"></script>
+          <script type="text/javascript">
+            ;( function( $ ) {
+
+                $( '.swipebox' ).swipebox();
+
+            } )( jQuery );
           </script>
     </body>
 </html>
